@@ -1,0 +1,2 @@
+# pulumitry
+Trying out Pulumi
